@@ -3,6 +3,8 @@ dPots is a lightweight and smooth pot enhancer plugin.
 
 It is similar to FastPot but improved with cmds and configuration.
 
+If there is any issue or you need help, DM me on discord @Dubai#1454
+
 ## Why Open Source it?
 It is a really simple and basic plugin so I decieded to open source it.
 
