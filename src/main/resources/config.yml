@@ -1,0 +1,37 @@
+#########################
+#        dPots          #
+#    By Dubai#1454      #
+#########################
+
+#Use the command /pot setspeed to update the pot speed
+#Don't Change the data.yml use cmds!
+#Suggested Range: 0.07 - 0.09
+
+#Messages Config
+MESSAGES:
+  RELOAD: "&adPots has been reloaded!"
+  POTION:
+   SPEED-UPDATED: "&6Pot speed has been updated to &e<value>&6."
+   OFFSET-UPDATED: "&6Pot offset has been updated to &e<value>&6."
+   VALUES-MESSAGE:
+     - "&7&m----------------------------"
+     - "&6&lPotion Values"
+     - " "
+     - "&6Potion Offset&7: &f<offset>"
+     - "&6Potion Speed&7: &f<speed>"
+     - "&7&m----------------------------"
+
+  HELP-MESSAGES:
+    POTION:
+    - "&7&m<line>"
+    - "&6&lPotion Commands"
+    - " "
+    - "&6/pot setoffset  &7- &fSet the potion offset"
+    - "&6/pot setspeed &7- &fSet the potion speed"
+    - "&6/pot values  &7- &fView the potion values"
+    - " "
+    - "&cPlease check config recommendations"
+    - "&cbefore setting up potion settings!"
+    - "&7&m<line>"
+#Values System:
+#More = Faster | Less = Slower
